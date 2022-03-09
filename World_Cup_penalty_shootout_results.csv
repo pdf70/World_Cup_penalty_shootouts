@@ -1,0 +1,31 @@
+Shoot-out no,Year,Round,Winner,Loser,Match score goals each side,First team,Second team,Successful kicks winner,Successful kicks loser,Count kicks winner,Count kicks loser,Total pens,Winning team order,Host country,Date,Winner_gk_no,Winner_gk_start_mins,Loser_gk_no,Loser_gk_start_mins
+1,1982,Semi-Final,West Germany,France,3,France,West Germany,5,4,6,6,12,2nd,Spain,8/07/1982,1,1,22,1
+2,1986,Quarter-Final,France,Brazil,1,Brazil,France,4,3,5,5,10,2nd,Mexico,21/06/1986,1,1,1,1
+3,1986,Quarter-Final,West Germany,Mexico,0,West Germany,Mexico,4,1,4,3,7,1st,Mexico,21/06/1986,1,1,1,1
+4,1986,Quarter-Final,Belgium,Spain,1,Spain,Belgium,5,4,5,5,10,2nd,Mexico,22/06/1986,1,1,1,1
+5,1990,2nd Round,Republic of Ireland,Romania,0,Romania,Republic of Ireland,5,4,5,5,10,2nd,Italy,25/06/1990,1,1,1,1
+6,1990,Quarter-Final,Argentina,Yugoslavia,0,Argentina,Yugoslavia,3,2,5,5,10,1st,Italy,30/06/1990,12,1,1,1
+7,1990,Semi-Final,Argentina,Italy,1,Italy,Argentina,4,3,4,5,9,2nd,Italy,3/07/1990,12,1,1,1
+8,1990,Semi-Final,West Germany,England,1,England,West Germany,4,3,4,5,9,2nd,Italy,4/07/1990,1,1,1,1
+9,1994,2nd Round,Bulgaria,Mexico,1,Mexico,Bulgaria,3,1,4,4,8,2nd,United States,5/07/1994,1,1,1,1
+10,1994,Quarter-Final,Sweden,Romania,2,Sweden,Romania,5,4,6,6,12,1st,United States,10/07/1994,1,1,1,1
+11,1994,Final,Brazil,Italy,0,Italy,Brazil,3,2,4,5,9,2nd,United States,17/07/1994,1,1,1,1
+12,1998,2nd Round,Argentina,England,2,Argentina,England,4,3,5,5,10,1st,France,30/06/1998,1,1,1,1
+13,1998,Quarter-Final,France,Italy,0,France,Italy,4,3,5,5,10,1st,France,3/07/1998,16,1,12,1
+14,1998,Semi-Final,Brazil,Netherlands,1,Brazil,Netherlands,4,2,4,4,8,1st,France,7/07/1998,1,1,1,1
+15,2002,2nd Round,Spain,Republic of Ireland,1,Republic of Ireland,Spain,3,2,5,5,10,2nd,South Korea,16/06/2002,1,1,1,1
+16,2002,Quarter-Final,South Korea,Spain,0,South Korea,Spain,5,3,5,4,9,1st,South Korea,22/06/2002,1,1,1,1
+17,2006,2nd Round,Ukraine,Switzerland,0,Ukraine,Switzerland,3,0,4,3,7,1st,Germany,26/06/2006,1,1,1,1
+18,2006,Quarter-Final,Germany,Argentina,1,Germany,Argentina,4,2,4,4,8,1st,Germany,30/06/2006,1,1,12,71
+19,2006,Quarter-Final,Portugal,England,0,Portugal,England,3,1,5,4,9,1st,Germany,1/07/2006,1,1,1,1
+20,2006,Final,Italy,France,1,Italy,France,5,3,5,4,9,1st,Germany,9/07/2006,1,1,16,1
+21,2010,2nd Round,Paraguay,Japan,0,Paraguay,Japan,5,3,5,4,9,1st,South Africa,29/06/2010,1,1,21,1
+22,2010,Quarter-Final,Uruguay,Ghana,1,Uruguay,Ghana,4,2,5,4,9,1st,South Africa,2/07/2010,1,1,22,1
+23,2014,2nd Round,Brazil,Chile,1,Brazil,Chile,3,2,5,5,10,1st,Brazil,28/06/2014,12,1,1,1
+24,2014,2nd Round,Costa Rica,Greece,1,Costa Rica,Greece,5,3,5,4,9,1st,Brazil,29/06/2014,1,1,1,1
+25,2014,Quarter-Final,Netherlands,Costa Rica,0,Costa Rica,Netherlands,4,3,4,5,9,2nd,Brazil,5/07/2014,23,121,1,1
+26,2014,Semi-Final,Argentina,Netherlands,0,Netherlands,Argentina,4,2,4,4,8,2nd,Brazil,9/07/2014,1,1,1,1
+27,2018,2nd Round,Russia,Spain,1,Spain,Russia,4,3,4,5,9,2nd,Russia,1/07/2018,1,1,1,1
+28,2018,2nd Round,Croatia,Denmark,1,Denmark,Croatia,3,2,5,5,10,2nd,Russia,1/07/2018,23,1,1,1
+29,2018,2nd Round,England,Colombia,1,Colombia,England,4,3,5,5,10,2nd,Russia,3/07/2018,1,1,1,1
+30,2018,Quarter-Final,Croatia,Russia,2,Russia,Croatia,4,3,5,5,10,2nd,Russia,7/07/2018,23,1,1,1
